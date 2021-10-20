@@ -1,2 +1,3 @@
 # Memory-Website
 A little website about my memories :)
+For this project, I wanted to explore the concept of memory.  I don’t remember much of my childhood, and wanted to highlight one of the only memories I do have, in which I was following my mom around the house, blowing out candles as she lit them.  It’s weird that I remember that in particular, but that's life for you.  I also like to associate the people in my life with music, either songs and artists they have shown me, or music we have listened to together.  This page is a sort of memorial to my memory, which for all intents and purposes is fragmented and pieced together in scrapbooks and cd’s.  It includes my favorite colors, the songs that bring me peace, and my hopes for the future.  
